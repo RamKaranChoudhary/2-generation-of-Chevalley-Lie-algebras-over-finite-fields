@@ -20,7 +20,7 @@ It provides explicit pairs of generators for the corresponding Lie algebras.
 
 ### `F4-Positive-Roots.g`
 
-This GAP script performs computations related to the root system of type \(F_4\), including:
+This GAP script performs computations related to the root system of type F_4, including:
 
 - Computation of positive roots.
 - Determination of distinct linear factors.
