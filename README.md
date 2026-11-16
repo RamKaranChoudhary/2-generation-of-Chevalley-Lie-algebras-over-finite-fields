@@ -12,7 +12,7 @@ The codes provided in this repository are written in **GAP** (Groups, Algorithms
 
 ### `G2_2_Generation.g`
 
-This GAP script verifies the 2-generation of the split simple Chevalley Lie algebra of type \(G_2\) over the finite fields \(\mathbb{F}_q\), for \(q=5,7,\) and \(11\).
+This GAP script verifies the 2-generation of the split simple Chevalley Lie algebra of type G_2 over the finite fields \(\mathbb{F}_q\), for \(q=5,7, and 11\).
 
 It provides explicit pairs of generators for the corresponding Lie algebras.
 
